@@ -1,0 +1,60 @@
+.navbar{
+background-image: linear-gradient(-90deg, #48dbfb, #5f27cd );
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+.navbar-brand{
+    color: white;
+}
+		.navbar-brand{
+			margin : 0px;
+			margin-bottom : 2px;
+			padding : 0px;
+		}
+.navbar-brand:hover{
+    color: white;
+}
+#whit{
+    color: white;
+}
+#whit:hover{
+	background : transparent;
+    color: black;
+}
+#men{
+    color: white;
+}
+.bb{
+    margin-top:7%;
+}
+.row{
+    margin-left:3%;
+    margin-right:3%;
+}
+.under{
+    border-bottom: 2px solid black;
+}
+.top{
+    margin-top:3%;
+}
+.collect{
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 1px 2px 2px silver;
+}
+.search-box{
+    padding: 20px;
+    padding-left: 35px;
+    border-radius: 5px;
+    background: #dfe6e9;
+}
+.box{
+    box-shadow: 0px 1px 2px 2px silver;
+    border-radius: 5px;
+    margin-top: 35px;
+}
+td,th{
+	padding : 10px;
+	padding-left : 5px;
+}
